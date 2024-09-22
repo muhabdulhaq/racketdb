@@ -12,6 +12,6 @@ Available format:
 - YOLO 1.1
 - YOLOv8 Detection 1.0
 
-You can download the dataset images here (~150GB)
+You can download the dataset images in the link below (~150GB)
 
 https://huggingface.co/datasets/muhabdulhaq/racketdb
