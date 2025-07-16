@@ -7,8 +7,8 @@ Dataset Formats
 
 RacketDB is available in multiple annotation formats to ensure broad compatibility with popular machine learning and computer vision frameworks:
 
-COCO 1.0
-CVAT for Images 1.1
+- COCO 1.0
+- CVAT for Images 1.1
 Datumaro 1.0
 Open Images V6 1.0
 PASCAL VOC 1.1
