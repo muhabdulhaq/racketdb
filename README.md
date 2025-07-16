@@ -1,5 +1,6 @@
 # RacketDB
 RacketDB: A Comprehensive Dataset for Badminton Racket Detection
+https://www.scitepress.org/PublishedPapers/2025/131597/
 
 RacketDB is a specialized dataset for badminton racket detection and analysis. This dataset includes a variety of formats to accommodate different use cases in machine learning and computer vision applications.
 
