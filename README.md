@@ -1,18 +1,28 @@
-# RacketDB
-RacketDB: A Comprehensive Dataset for Badminton Racket Detection
-https://www.scitepress.org/PublishedPapers/2025/131597/
+# RacketDB: A Comprehensive Dataset for Badminton Racket Detection
+[Authors: Muhammad Abdul Haq, Shuhei Tarashima, Norio TagawaPublication: VISAPP 2025 (20th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications)DOI: 10.5220/0013159700003912Pages: 426-433ISBN: 978-989-758-728-3](https://www.scitepress.org/PublishedPapers/2025/131597/)
 
-RacketDB is a specialized dataset for badminton racket detection and analysis. This dataset includes a variety of formats to accommodate different use cases in machine learning and computer vision applications.
+RacketDB is a specialized dataset designed specifically for badminton racket detection and analysis. It includes extensive annotations to support various machine learning and computer vision applications related to racket detection, orientation estimation, and equipment-player interaction analysis in badminton.
 
-Available format:
-- COCO 1.0
-- CVAT for images 1.1
-- Datumaro 1.0
-- Open Images V6 1.0
-- PASCAL VOC 1.1
-- YOLO 1.1
-- YOLOv8 Detection 1.0
+Dataset Formats
 
-You can download the dataset images in the link below (~150GB)
+RacketDB is available in multiple annotation formats to ensure broad compatibility with popular machine learning and computer vision frameworks:
 
-https://huggingface.co/datasets/muhabdulhaq/racketdb
+COCO 1.0
+
+CVAT for Images 1.1
+
+Datumaro 1.0
+
+Open Images V6 1.0
+
+PASCAL VOC 1.1
+
+YOLO 1.1
+
+YOLOv8 Detection 1.0
+
+Dataset Download
+
+You can download the dataset images (~150 GB) via the following link:
+
+[Download from Hugging Face](https://huggingface.co/datasets/muhabdulhaq/racketdb)
