@@ -1,5 +1,5 @@
 # RacketDB: A Comprehensive Dataset for Badminton Racket Detection
-[Authors: Muhammad Abdul Haq, Shuhei Tarashima, Norio TagawaPublication: VISAPP 2025 (20th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications)DOI: 10.5220/0013159700003912Pages: 426-433ISBN: 978-989-758-728-3](https://www.scitepress.org/PublishedPapers/2025/131597/)
+[Publication link](https://www.scitepress.org/PublishedPapers/2025/131597/)
 
 RacketDB is a specialized dataset designed specifically for badminton racket detection and analysis. It includes extensive annotations to support various machine learning and computer vision applications related to racket detection, orientation estimation, and equipment-player interaction analysis in badminton.
 
