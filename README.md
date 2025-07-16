@@ -19,8 +19,8 @@ RacketDB is available in multiple annotation formats to ensure broad compatibili
 You can download the dataset images (~150 GB) via the following link:
 [Download from Hugging Face](https://huggingface.co/datasets/muhabdulhaq/racketdb)
 
-Citation
 If you use this dataset in your research, please cite the following paper:
+
 @inproceedings{haq2025racketdb,
   author = {Haq, Muhammad Abdul and Tarashima, Shuhei and Tagawa, Norio},
   title = {RacketDB: A Comprehensive Dataset for Badminton Racket Detection},
