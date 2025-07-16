@@ -8,21 +8,14 @@ Dataset Formats
 RacketDB is available in multiple annotation formats to ensure broad compatibility with popular machine learning and computer vision frameworks:
 
 COCO 1.0
-
 CVAT for Images 1.1
-
 Datumaro 1.0
-
 Open Images V6 1.0
-
 PASCAL VOC 1.1
-
 YOLO 1.1
-
 YOLOv8 Detection 1.0
 
 Dataset Download
 
 You can download the dataset images (~150 GB) via the following link:
-
 [Download from Hugging Face](https://huggingface.co/datasets/muhabdulhaq/racketdb)
