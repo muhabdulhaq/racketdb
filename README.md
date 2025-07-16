@@ -9,11 +9,11 @@ RacketDB is available in multiple annotation formats to ensure broad compatibili
 
 - COCO 1.0
 - CVAT for Images 1.1
-Datumaro 1.0
-Open Images V6 1.0
-PASCAL VOC 1.1
-YOLO 1.1
-YOLOv8 Detection 1.0
+- Datumaro 1.0
+- Open Images V6 1.0
+- PASCAL VOC 1.1
+- YOLO 1.1
+- YOLOv8 Detection 1.0
 
 Dataset Download
 
