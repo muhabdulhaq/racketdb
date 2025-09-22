@@ -6,9 +6,9 @@ RacketDB is a specialized dataset designed specifically for badminton racket det
 Dataset Overview
 - Total Images: 22,682, meticulously annotated to improve object detection performance for sports analytics.
 - Labeled Rackets: 16,045 labeled racket instances. This is significantly more than the 3,561 racket instances found in the COCO dataset, making it ideal for training robust models.
-- Dataset Formats:
-RacketDB is available in multiple annotation formats to ensure broad compatibility with popular machine learning and computer vision frameworks:
 
+Dataset Formats:
+RacketDB is available in multiple annotation formats to ensure broad compatibility with popular machine learning and computer vision frameworks:
 - COCO 1.0
 - CVAT for Images 1.1
 - Datumaro 1.0
