@@ -18,9 +18,12 @@ RacketDB is available in multiple annotation formats to ensure broad compatibili
 - YOLOv8 Detection 1.0
 
 Get the Full Dataset
+
 The original videos/images used in RacketDB come from the following paper:
 [Estimation of control area in badminton doubles with pose information from top and back view drone videos](https://link.springer.com/article/10.1007/s11042-023-16362-1)
-Please cite the paper if you use the videos. The full dataset, including both images and annotations, is available on Hugging Face at the following link: 
+Please cite the paper if you use the videos.
+
+The full dataset, including both images and annotations, is available on Hugging Face at the following link: 
 
 [https://huggingface.co/datasets/muhabdulhaq/racketdb](https://huggingface.co/datasets/muhabdulhaq/racketdb)
 
