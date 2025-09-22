@@ -3,8 +3,10 @@
 
 RacketDB is a specialized dataset designed specifically for badminton racket detection and analysis. It includes extensive annotations to support various machine learning and computer vision applications related to racket detection, orientation estimation, and equipment-player interaction analysis in badminton.
 
-Dataset Formats
-
+Dataset Overview
+- Total Images: 22,682, meticulously annotated to improve object detection performance for sports analytics.
+- Labeled Rackets: 16,045 labeled racket instances. This is significantly more than the 3,561 racket instances found in the COCO dataset, making it ideal for training robust models.
+- Dataset Formats:
 RacketDB is available in multiple annotation formats to ensure broad compatibility with popular machine learning and computer vision frameworks:
 
 - COCO 1.0
@@ -15,6 +17,9 @@ RacketDB is available in multiple annotation formats to ensure broad compatibili
 - YOLO 1.1
 - YOLOv8 Detection 1.0
 
+Get the Full Dataset
+The original videos/images used in RacketDB come from the following paper:
+[Estimation of control area in badminton doubles with pose information from top and back view drone videos](https://link.springer.com/article/10.1007/s11042-023-16362-1)
+Please cite the paper if you use the videos. The full dataset, including both images and annotations, is available on Hugging Face at the following link: 
 
-You can download the dataset images (~150 GB) via the following link:
-[Download from Hugging Face](https://huggingface.co/datasets/muhabdulhaq/racketdb)
+[https://huggingface.co/datasets/muhabdulhaq/racketdb](https://huggingface.co/datasets/muhabdulhaq/racketdb)
