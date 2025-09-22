@@ -23,3 +23,24 @@ The original videos/images used in RacketDB come from the following paper:
 Please cite the paper if you use the videos. The full dataset, including both images and annotations, is available on Hugging Face at the following link: 
 
 [https://huggingface.co/datasets/muhabdulhaq/racketdb](https://huggingface.co/datasets/muhabdulhaq/racketdb)
+
+## Please Cite
+
+```bibtex
+@conference{visapp25,
+author={Muhammad Haq and Shuhei Tarashima and Norio Tagawa},
+title={RacketDB: A Comprehensive Dataset for Badminton Racket Detection},
+booktitle={Proceedings of the 20th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications - Volume 3: VISAPP},
+year={2025},
+pages={426-433},
+publisher={SciTePress},
+organization={INSTICC},
+doi={10.5220/0013159700003912},
+isbn={978-989-758-728-3},
+}
+```
+
+## Contact
+
+For questions, please contact:
+[muhabdulhaq@gmail.com](mailto:muhabdulhaq@gmail.com)
